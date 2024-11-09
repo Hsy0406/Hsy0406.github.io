@@ -25,7 +25,7 @@ Publication
 
 `DAC-2024` Fangxin Liu, Ning Yang, Zhiyan Song, Zongwu Wang, Haomin Li, Shiyuan Huang, Zhuoran Song, Songwen Pei, and Li Jiang, "INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding," 61th ACM/IEEE Design Automation Conference (DAC), 2024, (**CCF-A Conference**).
 
-Fangxin Liu, Shiyuan Huang, Longyu Zhao, Li Jiang, Zongwu Wang, "LowPASS: A Low power PIM-based accelerator with Speculative Scheme for SNNs," Proceedings of the 29th ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024, (**CCF-C Conference**).
+`ISLPED-2024` Fangxin Liu, Shiyuan Huang, Longyu Zhao, Li Jiang, Zongwu Wang, "LowPASS: A Low power PIM-based accelerator with Speculative Scheme for SNNs," Proceedings of the 29th ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024, (**CCF-C Conference**).
 
 
 
