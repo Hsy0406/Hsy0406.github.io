@@ -21,14 +21,14 @@ repository               : "Hsy0406/Hsy0406.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Shiyuan Huang"
   pronouns         : # example: "she/her"  
   bio              : "PhD student, Department of Computer Science, Shanghai Jiao Tong University"
   location         : "800 DongChuan Road, SEIEE Building #03-125, Minhang District, Shanghai"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : #"none@example.org" 
+  email            : "huangshiyuan@sjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
