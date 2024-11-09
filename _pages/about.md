@@ -11,21 +11,29 @@ Shiyuan Huang is a PhD student in the Department of Computer Science at Shanghai
 
 Publication
 ======
+{=} denotes equal contribution;   {*} denotes corresponding author
+
 `TCAD-2024` **Shiyuan Huang**, Fangxin Liu, Tao Yang, Zongwu Wang, Ning Yang, and Li Jiang, "SpMMPlu-Pro: An Enhanced Compiler Plug-In for Efficient SpMM and Sparsity Propagation Algorithm," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024 (**CCF-A Journal**).
 
-`HPCA-2025` Fangxin Liu, **Shiyuan Huang** (**co-first author**), Ning Yang, Zongwu Wang, Haomin Li, and Li Jiang, "CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels," 2025 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025 (**CCF-A Conference**).
+`HPCA-2025` Fangxin Liu=, **Shiyuan Huang=**, Ning Yang, Zongwu Wang, Haomin Li, and Li Jiang, "CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels," 2025 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025 (**CCF-A Conference**).
 
-`TODAES-2024` **Shiyuan Huang**, Fangxin Liu, Tian Li, Zongwu Wang, Ning Yang, Haomin Li, Li Jiang, "STCO: Enhancing Training Efficiency via Structured Sparse Tensor Compilation Optimization," in ACM Transactions on Design Automation of Electronic Systems (TODAES), 2024 (**CCF-B Journal**).
+`TODAES-2024` **Shiyuan Huang=**, Fangxin Liu=, Tian Li, Zongwu Wang, Ning Yang, Haomin Li, Li Jiang, "STCO: Enhancing Training Efficiency via Structured Sparse Tensor Compilation Optimization," in ACM Transactions on Design Automation of Electronic Systems (TODAES), 2024 (**CCF-B Journal**).
 
-`ASP-DAC-2024` **Shiyuan Huang**, Fangxin Liu, Tian Li, Zongwu Wang, Haomin Li, and Li Jiang, "TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation," 29th Asia and South Pacific Design Automation Conference (ASP-DAC), 2024, (**CCF-C Conference**).
+`ASP-DAC-2024` **Shiyuan Huang=**, Fangxin Liu=, Tian Li, Zongwu Wang, Haomin Li, and Li Jiang, "TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation," 29th Asia and South Pacific Design Automation Conference (ASP-DAC), 2024, (**CCF-C Conference**).
 
-`MICRO-2024` Fangxin Liu, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, **Shiyuan Huang**, Haomin Li, Tao Yang, Songwen Pei, Xiaoyao Liang, and Li Jiang, "COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with Adaptive Spike Speculation," 57th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024, (**CCF-A Conference**).
+`MICRO-2024` Zongwu Wang, Fangxin Liu*, Ning Yang, **Shiyuan Huang**, Haomin Li, and Li Jiang "COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with Adaptive Spike Speculation," 57th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024, (**CCF-A Conference**).
 
 `TPDS-2024` Fangxin Liu, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, **Shiyuan Huang**, Haomin Li, Tao Yang, Songwen Pei, Xiaoyao Liang, and Li Jiang, "Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration," IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024, (**CCF-A Conference**).
 
-`DAC-2024` Fangxin Liu, Ning Yang, Zhiyan Song, Zongwu Wang, Haomin Li, Shiyuan Huang, Zhuoran Song, Songwen Pei, and Li Jiang, "INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding," 61th ACM/IEEE Design Automation Conference (DAC), 2024, (**CCF-A Conference**).
+`DAC-2024` Fangxin Liu=, Ning Yang=, Zhiyan Song, Zongwu Wang, Haomin Li, **Shiyuan Huang**, Zhuoran Song, Songwen Pei, and Li Jiang, "INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding," 61st ACM/IEEE Design Automation Conference (DAC), 2024, (**CCF-A Conference**).
+
+`ASP-DAC-2025` Fangxin Liu=, Zongwu Wang=, Peng Xu, Shiyuan Huang, and Li Jiang, "Exploiting Differential-Based Data Encoding for Enhanced Query Efficiency," 30th Asia and South Pacific Design Automation Conference (ASP-DAC), 2025, (**CCF-C Conference**).
+
+`ASP-DAC-2025`  Haomin Li=, Fangxin Liu=, Zewen Sun, Zongwu Wang, Shiyuan Huang, Ning Yang, and Li Jiang, "NeuronQuant: Accurate and Efficient Post-Training Quantization for Spiking Neural Networks," 30th Asia and South Pacific Design Automation Conference (ASP-DAC), 2025, (**CCF-C Conference**).
 
 `ISLPED-2024` Fangxin Liu, Shiyuan Huang, Longyu Zhao, Li Jiang, Zongwu Wang, "LowPASS: A Low power PIM-based accelerator with Speculative Scheme for SNNs," Proceedings of the 29th ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024, (**CCF-C Conference**).
+
+
 
 
 
