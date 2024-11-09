@@ -11,7 +11,24 @@ Shiyuan Huang is a PhD student in the Department of Computer Science at Shanghai
 
 Publication
 ======
-`TCAD-2024` **Shiyuan Huang**, Fangxin Liu, Tao Yang, Zongwu Wang, Ning Yang, and Li Jiang, "SpMMPlu-Pro: An Enhanced Compiler Plug-In for Efficient SpMM and Sparsity Propagation Algorithm," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.
+`TCAD-2024` **Shiyuan Huang**, Fangxin Liu, Tao Yang, Zongwu Wang, Ning Yang, and Li Jiang, "SpMMPlu-Pro: An Enhanced Compiler Plug-In for Efficient SpMM and Sparsity Propagation Algorithm," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024 (**CCF-A Journal**).
+
+`HPCA-2025` Fangxin Liu, **Shiyuan Huang** (**co-first author**), Ning Yang, Zongwu Wang, Haomin Li, and Li Jiang, "CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels," 2025 IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025 (**CCF-A Conference**).
+
+`TODAES-2024` **Shiyuan Huang**, Fangxin Liu, Tian Li, Zongwu Wang, Ning Yang, Haomin Li, Li Jiang, "STCO: Enhancing Training Efficiency via Structured Sparse Tensor Compilation Optimization," in ACM Transactions on Design Automation of Electronic Systems (TODAES), 2024 (**CCF-B Journal**).
+
+`ASP-DAC-2024` **Shiyuan Huang**, Fangxin Liu, Tian Li, Zongwu Wang, Haomin Li, and Li Jiang, "TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation," 29th Asia and South Pacific Design Automation Conference (ASP-DAC), 2024, (**CCF-C Conference**).
+
+`MICRO-2024` Fangxin Liu, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, **Shiyuan Huang**, Haomin Li, Tao Yang, Songwen Pei, Xiaoyao Liang, and Li Jiang, "COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with Adaptive Spike Speculation," 57th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024, (**CCF-A Conference**).
+
+`TPDS-2024` Fangxin Liu, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, **Shiyuan Huang**, Haomin Li, Tao Yang, Songwen Pei, Xiaoyao Liang, and Li Jiang, "Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration," IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024, (**CCF-A Conference**).
+
+`DAC-2024` Fangxin Liu, Ning Yang, Zhiyan Song, Zongwu Wang, Haomin Li, Shiyuan Huang, Zhuoran Song, Songwen Pei, and Li Jiang, "INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding," 61th ACM/IEEE Design Automation Conference (DAC), 2024, (**CCF-A Conference**).
+
+Fangxin Liu, Shiyuan Huang, Longyu Zhao, Li Jiang, Zongwu Wang, "LowPASS: A Low power PIM-based accelerator with Speculative Scheme for SNNs," Proceedings of the 29th ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024, (**CCF-C Conference**).
+
+
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
