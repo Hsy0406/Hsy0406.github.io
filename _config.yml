@@ -12,7 +12,7 @@ title                    : "Shiyuan Huang's Homepage"
 title_separator          : "-"
 name                     : &name "Shiyuan Huang"
 description              : &description "PhD student, Department of Computer Science, Shanghai Jiao Tong University"
-url                      : https://Hsy0406.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hsy0406.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Hsy0406/Hsy0406.github.io"
 
