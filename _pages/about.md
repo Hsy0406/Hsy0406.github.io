@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Fangxin Liu's Homepage~"
+title: "Welcome to Shiyuan Huang's Homepage~"
 author_profile: true
 redirect_from: 
   - /about/
