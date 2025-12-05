@@ -9,7 +9,7 @@ redirect_from:
 
 Shiyuan Huang is an Assistant Researcher at Shanghai University (SHU). My research interests include AI Compiler, Network Switchingm and in-memory computing.
 
-I received my Ph.D. degree in Computer Science and Technology from Shanghai Jiao Tong University in 2025, under the supervision of Prof. Li Jiang. I have published 13 papers (5 as first author) in CCF Tier A conferences such as HPCA, MICRO, TCAD, TPDS, TACO, and SCI-indexed journals. I was honored with the title of “Outstanding Doctoral Graduate” by Shanghai Jiao Tong University in 2025.
+I received my Ph.D. degree in Computer Science and Technology from Shanghai Jiao Tong University in 2025, under the supervision of Prof. Li Jiang. I have published 13 papers (5 as first author) in CCF Tier A conferences/journals such as HPCA, MICRO, TCAD, TPDS, TACO, and SCI-indexed journals. I was honored with the title of “Outstanding Doctoral Graduate” by Shanghai Jiao Tong University in 2025.
 
 Publication
 ======
