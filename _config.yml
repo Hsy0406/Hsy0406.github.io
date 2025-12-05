@@ -25,10 +25,10 @@ author:
   name             : "Shiyuan Huang"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Researcher, School of Microelectronics, Shanghai University"
-  location         : #""
-  employer         : #"Red Brick University"
-  uri              : # URL
-  email            : "huangshiyuan@shu.edu.cn" 
+  #location         : #""
+  #employer         : #"Red Brick University"
+  #uri              : # URL
+  #email            : "huangshiyuan@shu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
