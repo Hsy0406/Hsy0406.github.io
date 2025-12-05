@@ -25,7 +25,7 @@ author:
   name             : "Shiyuan Huang"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Researcher, School of Microelectronics, Shanghai University"
-  location         : ""
+  location         : #""
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "huangshiyuan@shu.edu.cn" 
