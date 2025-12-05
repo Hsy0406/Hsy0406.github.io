@@ -14,6 +14,7 @@ I received my Ph.D. degree in Computer Science and Technology from Shanghai Jiao
 Publication
 ======
 {=} denotes equal contribution;   {*} denotes corresponding author
+
 `TACO-2025` **Shiyuan Huang**, Fangxin Liu*, Zongwu Wang, Ning Yang, Haomin Li, Li Jiang* and Haibing Guan, "MIX-PC: Enabling Efficient DNN Inference with Mixed Numeric Precision Compilation Optimization," in ACM Transactions on Architecture and Code Optimization (TACO), 2026 (**CCF-A Journal**).
 
 `TCAD-2024` **Shiyuan Huang**, Fangxin Liu*, Tao Yang, Zongwu Wang, Ning Yang, and Li Jiang, "SpMMPlu-Pro: An Enhanced Compiler Plug-In for Efficient SpMM and Sparsity Propagation Algorithm," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024 (**CCF-A Journal**).
